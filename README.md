@@ -1,4 +1,4 @@
-SauceDemo Web Application - Manual Testing Project
+SauceDemo Web Application - Manual Testing Project <br>
 📌 Project Overview
 
 This repository contains the complete Manual Testing documentation and deliverables for the SauceDemo Web Application. The project was created to demonstrate the end-to-end Software Testing Life Cycle (STLC), from test planning and test case design to test execution, defect reporting, and final test summary.
