@@ -23,7 +23,7 @@ Test Execution – Contains the execution results and status of the designed tes
 Test Summary Report – Provides an overall summary of testing activities, results, defects, and final testing observations.
 
 
-🧪 Testing Type
+🧪 Testing Type <br>
 Manual Testing
 Functional Testing
 UI Testing
@@ -32,7 +32,7 @@ Negative Testing
 Regression Testing
 
 
-🛠️ Application Under Test
+🛠️ Application Under Test <br>
 Application: SauceDemo
 Testing Approach: Manual Testing
 Testing Environment: Web Browser
